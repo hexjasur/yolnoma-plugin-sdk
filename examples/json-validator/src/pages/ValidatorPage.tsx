@@ -58,7 +58,7 @@ export function ValidatorPage(): React.ReactElement {
 
       <div style={styles.actions}>
         <button style={styles.btnPrimary} onClick={handleValidate}>
-          Validate
+          TEST FROM APPDATA
         </button>
         <button style={styles.btnSecondary} onClick={handleClear}>
           Clear

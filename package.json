@@ -1,6 +1,6 @@
 ﻿{
   "name": "@yolnoma/plugin-sdk",
-  "version": "0.1.0",
+  "version": "0.1.11",
   "description": "Official SDK for building Yolnoma plugins",
   "author": "JK Software",
   "license": "MIT",

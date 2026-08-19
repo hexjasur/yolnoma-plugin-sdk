@@ -1,8 +1,8 @@
 ﻿{
-  "name": "@yolnoma/example-json-validator",
+  "name": "@yolnoma/test-hello-page",
   "version": "0.1.0",
   "private": true,
-  "description": "JSON Validator — example Yolnoma plugin using @yolnoma/plugin-sdk",
+  "description": "Hello — example test Yolnoma plugin using @yolnoma/plugin-sdk",
   "type": "module",
   "scripts": {
     "typecheck": "tsc --noEmit",
