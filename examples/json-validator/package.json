@@ -1,0 +1,18 @@
+﻿{
+  "name": "@yolnoma/example-json-validator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JSON Validator — example Yolnoma plugin using @yolnoma/plugin-sdk",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@yolnoma/plugin-sdk": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "react": "^18.3.1",
+    "typescript": "^5.6.3"
+  }
+}
